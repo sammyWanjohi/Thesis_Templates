@@ -1,2 +1,1 @@
-git checkout main
-error: pathspec 'main' did not match any file(s) known to git
+Template for wriing Dissertations for UoN, TuKenya and most Kenyan universities
